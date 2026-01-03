@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Devkeepr
+    url: https://devkeepr.app
+    about: 'For license and billing related questions, please send us an email to support@devkeepr.app'
+  - name: Feature request
+    url: https://github.com/devkeepr/community/discussions
+    about: 'For ideas or feature requests, start a new discussion'
+  # - name: Check the docs
+  #   url: https://devkeepr.app/docs
+  #   about: "This repository is for reporting bugs and proposing new features. If you need help with your first steps with Devkeepr, check out the docs!"
+  - name: Security vulnerabilities
+    url: https://devkeepr.app
+    about: If you want to report a security issue, please contact our support.
