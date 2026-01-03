@@ -1,5 +1,5 @@
 <p class="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devkeepr/community/refs/heads/main/art/icon.png" loading="lazy" style="max-width: 280px;" />
+    <img src="https://raw.githubusercontent.com/devkeepr/community/refs/heads/main/art/icon.png" loading="lazy" width="280" />
 </p>
 
 ## Devkeepr issue &amp; discussion board
